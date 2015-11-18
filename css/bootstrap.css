@@ -4792,7 +4792,7 @@ a.label:focus {
   background-color: #1a242f;
 }
 .label-success {
-  background-color: #18bc9c;
+  background-color: #3e094b;
 }
 .label-success[href]:hover,
 .label-success[href]:focus {
@@ -4962,8 +4962,8 @@ a.thumbnail.active {
   color: inherit;
 }
 .alert-success {
-  background-color: #18bc9c;
-  border-color: #18bc9c;
+  background-color: #3e094b;
+  border-color: #3e094b;
   color: #ffffff;
 }
 .alert-success hr {
@@ -5582,18 +5582,18 @@ a.list-group-item-danger.active:focus {
   border-bottom-color: #3e094b;
 }
 .panel-success {
-  border-color: #18bc9c;
+  border-color: #3e094b;
 }
 .panel-success > .panel-heading {
   color: #ffffff;
-  background-color: #18bc9c;
-  border-color: #18bc9c;
+  background-color: #3e094b;
+  border-color: #3e094b;
 }
 .panel-success > .panel-heading + .panel-collapse > .panel-body {
-  border-top-color: #18bc9c;
+  border-top-color: #3e094b;
 }
 .panel-success > .panel-heading .badge {
-  color: #18bc9c;
+  color: #3e094b;
   background-color: #ffffff;
 }
 .panel-success > .panel-footer + .panel-collapse > .panel-body {
