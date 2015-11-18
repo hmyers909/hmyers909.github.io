@@ -1126,7 +1126,7 @@ img {
   max-width: 100%;
   height: auto;
 }
-.circular {
+.circular1 {
   width: 300px;
   height: 300px;
   border-radius: 150px;
@@ -1135,7 +1135,7 @@ img {
   background: url(img/cat.png) no-repeat;
   }
 
-.circular img {
+.circular1 img {
   opacity: 0;
   filter: alpha(opacity=0);
   }
