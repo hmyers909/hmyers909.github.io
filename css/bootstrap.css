@@ -1126,8 +1126,20 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
-  border-radius: 50%,
 }
+.circular {
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url(img/cat.png) no-repeat;
+  }
+
+.circular img {
+  opacity: 0;
+  filter: alpha(opacity=0);
+  }
 
 .img-rounded {
   border-radius: 6px;
